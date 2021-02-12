@@ -1,0 +1,15 @@
+venv/
+.idea/
+
+# Ignore install folders
+GS15_Blockchain_KASUMI.egg-info/
+build/
+dist/
+
+files_install.txt
+
+# Ignore all pycache folders recursively
+**/__pycache__/
+
+# Pyfinite file
+ffield.lut.8
